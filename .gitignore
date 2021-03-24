@@ -1,0 +1,5 @@
+./notebooks/ref/
+
+*.csv
+*.tgz
+.ipynb_checkpoints/
