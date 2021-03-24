@@ -1,0 +1,13 @@
+graphviz
+jupyter
+torch
+torchvision
+matplotlib
+numpy
+nltk
+pandas
+requests
+patsy
+scipy
+scikit-learn
+xgboost
